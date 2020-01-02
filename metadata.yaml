@@ -1,0 +1,33 @@
+_repo: Komet-und-Erde-Eine-astronomische-Erzahlung_60930
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cassirer, J.
+    gutenberg_agent_id: '51192'
+    url: http://www.gutenberg.org/2009/agents/51192
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60930'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Comets'
+- GITenberg
+title: 'Komet und Erde: Eine astronomische Erzählung'
+url: http://www.gutenberg.org/ebooks/60930
